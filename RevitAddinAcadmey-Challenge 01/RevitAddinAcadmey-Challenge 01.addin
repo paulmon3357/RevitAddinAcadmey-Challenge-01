@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RevitAddinAcadmey-Challenge 01</Text>
+    <Description>Some description for RevitAddinAcadmey-Challenge 01</Description>
+    <Assembly>RevitAddinAcadmey-Challenge 01.dll</Assembly>
+    <FullClassName>RevitAddinAcadmey_Challenge_01.Command</FullClassName>
+    <ClientId>70474940-a125-4508-81c6-a444b7af5488</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RevitAddinAcadmey-Challenge 01</Name>
+    <Assembly>RevitAddinAcadmey-Challenge 01.dll</Assembly>
+    <FullClassName>RevitAddinAcadmey_Challenge_01.App</FullClassName>
+    <ClientId>f028c34a-b68e-4cf3-a9e1-3abdf3c0f627</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
